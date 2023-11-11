@@ -94,7 +94,7 @@ top: 0;
     background-color: rgba(0, 0, 0, 0.6); /* Black color with 50% transparency */
   }
 .home .container{
-    left: 40%;
+    left: 45%;
     top: 50%;
     transform: translate(-50%,-50%);
 }
